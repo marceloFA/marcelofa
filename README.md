@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm João Almeida 👋
 
-<!--
-**marceloFA/marcelofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer and MSc Computer Science student based in Belo Horizonte, Brazil.
 
-Here are some ideas to get you started:
+I currently work remotely at the **Instituto Nacional de Telecomunicações**, developing cloud native solutions. I also have a secondary role as quality lead, which involves designing, developing, and maintaining robust unit and integration tests for microservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm pursuing an **MSc in Computer Science** at the Federal University of Minas Gerais (UFMG), focuding in the software engineering field.
+- Graduated with a **BSc in Computer Science** from the Federal University of Pará (UFPA).
+- Feel free to connect with me and reach out on [LinkedIn](https://linkedin.com/in/marcelofalmeida) 😊
+
+---
+
+## Technologies & Skills
+My primary tech stack includes:
+
+**Languages & Frameworks:** Python | Go | Java | Bash  
+**Cloud-Native & DevOps:** Kubernetes | Helm | Docker | Linux | AWS 
+**Tools & Concepts:** Microservices | Monitoring | NoSQL distributed databases | Jira | Confluence | Documentation | Git
+
+---
+
+## Some (old) Small Projects
+
+* **[Pycee 2](https://github.com/marcelofa/pycee)** A tool to assist Python newcomers with answers for code errors from StackOverflow. (Full stack web development, pytest)
+* **[Guia-IASEP](https://github.com/marcelofa/guiaiasep)** A rework of the state medical guide. (Full stack web development, web scraping)
