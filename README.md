@@ -16,10 +16,3 @@ My primary tech stack includes:
 **Languages & Frameworks:** Python | Go | Java | Bash  
 **Cloud-Native & DevOps:** Kubernetes | Helm | Docker | Linux | AWS 
 **Tools & Concepts:** Microservices | Monitoring | NoSQL distributed databases | Jira | Confluence | Documentation | Git
-
----
-
-## Some (old) Small Projects
-
-* **[Pycee 2](https://github.com/marcelofa/pycee)** A tool to assist Python newcomers with answers for code errors from StackOverflow. (Full stack web development, pytest)
-* **[Guia-IASEP](https://github.com/marcelofa/guiaiasep)** A rework of the state medical guide. (Full stack web development, web scraping)
